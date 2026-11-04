@@ -1,0 +1,3 @@
+
+Shortest Path: ['A', 'B', 'D', 'E']
+Total Cost: 7
